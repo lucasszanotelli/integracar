@@ -1,4 +1,0 @@
-®) Ouvir
-
-Para importar o PyTesseract em um script Python, vocé deve primeiro instalar a biblioteca
-PyTesseract e o mecanismo Tesseract OCR em seu sistema operacional, e entdo usar a

@@ -19,7 +19,7 @@ def ler_arquivos(arquivos_pdf):
         textos = ''
         reader = PdfReader(pdf)
         for pagina in reader.pages:
-            textos += pagina.extract_text()
+            textos += pagina.extract_text().replace("\n", " ") #o replace retira o que eu não quero salvar. neste caso, as quebras de linhas
         lista_de_textos.append(textos)
     return lista_de_textos
 
