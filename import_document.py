@@ -19,7 +19,10 @@ def ler_arquivos(arquivos_pdf):
         textos = ''
         reader = PdfReader(pdf)
         for pagina in reader.pages:
-            textos += pagina.extract_text().replace("\n", " ") #o replace retira o que eu não quero salvar. neste caso, as quebras de linhas
+            texto = pagina.extract_text().replace("\n", " ")
+            while '  ' in texto:
+                texto = texto.replace('  ', ' ')
+            textos += texto
         lista_de_textos.append(textos)
     return lista_de_textos
 
@@ -35,7 +38,6 @@ def salvar_txt(pdfs: list[str], textos: list[str], caminho_textos):
 
 ## main ():
 pdfs = pegar_PDF("docs")
-print(ler_arquivos(pdfs))
 
 lista = ler_arquivos(pdfs)
 salvar_txt(pdfs, lista, "textos_txt")#o último parâmetro é o nome da pasta em que colocaremos o arquivo
