@@ -1,0 +1,134 @@
+## Chunk 1
+
+DECRETO N° 3346-R, DE 11 DE JULHO DE 2013.
+Dispõe sobre o Cadastro Ambiental Rural  (CAR)  no  Estado  e  dá  outras providencias.
+O GOVERNADOR DO ESTADO DO ESPÍRITO SANTO, no uso da atribuição que lhe confere o Art. 91, III, da Constituição Estadual e, tendo em vista o que consta dos processos nº 58392025/2012 e 62748963/2013,
+
+## Chunk 2
+
+DISPOSIÇÕES GERAIS
+Art. 1º A inscrição de imóveis rurais no Cadastro Ambiental Rural (CAR) do  Estado  será  regida  pelo  disposto  na  Lei  Federal  nº  12.651/  2012, Decreto  Federal  nº  7830/2012,  bem  como  pelas  normas  fixadas  neste Decreto.
+Art. 2º O  Instituto de  Defesa Agropecuária e Florestal  (IDAF) é o órgão responsável  pelo  desenvolvimento,  pela  implementação  e  pela  gestão  do Sistema de Cadastro Ambiental Rural no Estado.
+Art. 3º Para os efeitos deste Decreto entende-se por:
+- I. Sistema  de  Cadastro  Ambiental  Rural  -  sistema  eletrônico,  de  âmbito estadual,  destinado  ao  gerenciamento  de  informações  ambientais  dos imóveis rurais.
+
+## Chunk 3
+
+DISPOSIÇÕES GERAIS
+II. Cadastro  Ambiental Rural  (CAR) - registro eletrônico de abrangência nacional  junto  ao  órgão  ambiental  competente,  no  âmbito  do  Sistema Nacional de Informação sobre Meio Ambiente (SINIMA), obrigatório para todos  os  imóveis  rurais,  com  a  finalidade  de  integrar  as  informações ambientais das propriedades e posses rurais, compondo base de dados para controle, monitoramento, planejamento ambiental e econômico e combate ao desmatamento.
+III. Área de remanescente de vegetação nativa: área com vegetação nativa em  estágio primário ou secundário inicial, médio ou avançado de regeneração.
+
+## Chunk 4
+
+DISPOSIÇÕES GERAIS
+IV. Planta  ou  croqui  georreferenciada(o):  levantamento  executado  em campo  por  meio  de  Sistema  de  Posicionamento  Global  (GPS)  e/ou  por fotointerpretação, indicando área e perímetro do imóvel, coerente quanto à forma e área em relação ao imóvel real e adequado ao Sistema Geodésico Brasileiro (SGB).
+V. Imóvel rural: prédio rústico, de área contínua, qualquer que seja a sua localização, destinada à exploração extrativa agrícola, pecuária ou agroindustrial, por meio de planos públicos de valorização ou por iniciativa privada, conforme o disposto no Art. 4º da Lei Federal 4.504/1964.
+
+## Chunk 5
+
+DO SISTEMA DE CADASTRO AMBIENTAL RURAL
+Art. 4º Fica criado o Sistema de Cadastro Ambiental Rural no Estado, com os seguintes objetivos:
+- I. receber, gerenciar e integrar os dados do CAR de todo o Estado;
+II. cadastrar e controlar as informações dos imóveis  e rurais, referentes a seu  perímetro  e  localização,  aos  remanescentes  de  vegetação  nativa,  às áreas  de  interesse  social,  às  áreas  de  utilidade  pública,  às  Áreas  de Preservação Permanente, às Áreas de Uso Restrito, às áreas consolidadas e às Reservas Legais;
+III. monitorar  a  manutenção,  recomposição,  regeneração,  compensação  e supressão  da vegetação  nativa e da cobertura vegetal nas áreas de Preservação Permanente, Uso Restrito e de Reserva Legal, no interior dos imóveis rurais;
+
+## Chunk 6
+
+DO SISTEMA DE CADASTRO AMBIENTAL RURAL
+IV. promover  o  planejamento  ambiental  e  econômico  do  uso  do  solo  e conservação ambiental no território estadual; e,
+V. disponibilizar  na  Internet  informações  de  natureza  pública  sobre  a regularização ambiental dos imóveis rurais em território estadual.
+
+## Chunk 7
+
+DO CADASTRO AMBIENTAL RURAL (CAR)
+Art.  5º O  Cadastro  Ambiental  Rural  (CAR)  contemplará  os  dados  do proprietário,  possuidor  rural  ou  responsável  direto  pelo  imóvel  rural,  a respectiva planta ou croqui georreferenciados do perímetro do imóvel, das áreas de interesse social e das áreas de utilidade pública, com a informação da localização dos remanescentes de vegetação nativa, Áreas de Preservação  Permanente,  Áreas  de  Uso  Restrito,  áreas  consolidadas  e localização das Reservas Legais.
+Art. 6º A  inscrição  no  CAR  é  obrigatória  a todas  as propriedades  rurais, tendo  natureza  declaratória  e  permanente  e  conterá  informações  sobre  o imóvel, conforme o disposto no Art. 5º.
+
+## Chunk 8
+
+DO CADASTRO AMBIENTAL RURAL (CAR)
+§  1º As  informações  registradas  no  CAR  são  de  responsabilidade  do declarante, que incorrerá em sanções penais e administrativas, sem prejuízo de  outras  previstas  na  legislação,  quando  total  ou  parcialmente  falsas, enganosas ou omissas.
+§ 2º A inscrição no CAR será requerida junto ao IDAF no prazo de 1 (um) ano a partir de sua implantação, podendo ser prorrogado por ato do Poder Executivo, conforme dispõe o § 3º do artigo 29 da Lei Federal 12.651/2012.
+§  3º As  informações  deverão  ser  atualizadas  no  Sistema  de  Cadastro Ambiental  Rural,  sempre  que  houver  alteração  de  natureza  dominial  ou possessória.
+
+## Chunk 9
+
+DO CADASTRO AMBIENTAL RURAL (CAR)
+§ 4º A declaração, atualização ou alteração dos dados inseridos no CAR só serão efetuadas pelo proprietário do imóvel rural ou representante legalmente constituído.
+Art. 7º Quando detectadas pendências ou inconsistências nas informações declaradas  e  nos  documentos  apresentados  no  CAR, o  órgão  responsável notificará  o  requerente,  uma  única  vez,  para  que  forneça  as  informações complementares  ou  promova  a  correção  e  adequação  das  informações prestadas.
+§  1º Na  hipótese  apresentada  no caput ,  o  requerente  deverá  promover  as alterações  no  prazo  estabelecido  pelo  órgão  ambiental  competente,  sobpena de cancelamento de sua inscrição no CAR.
+
+## Chunk 10
+
+DO CADASTRO AMBIENTAL RURAL (CAR)
+§  2º Enquanto  não  houver  manifestação  do  órgão  competente  acerca  de pendências ou inconsistências nas informações declaradas e nos documentos apresentados para inscrição no CAR, será considerada válida a Solicitação  de  Inscrição  do  Imóvel  Rural  no  CAR  para  todos  os  fins previstos em lei.
+§  3º Os  documentos comprobatórios das informações declaradas poderão ser  solicitados,  a  qualquer  tempo,  pelo  órgão  competente,  e  poderão  ser fornecidos por meio digital, na forma indicada pelo órgão.
+
+## Chunk 11
+
+DO CADASTRO AMBIENTAL RURAL (CAR)
+§ 4º O IDAF analisará e aprovará as informações declaradas na solicitação de inscrição do CAR com base em ortofos e imagens de satélite e, sempre que julgar necessário, poderá realizar vistorias de campo para verificação das informações e acompanhamento dos compromissos assumidos.
+Art. 8º Para o registro no CAR dos imóveis rurais de agricultura familiar com  área  de  até  25  hectares,  o  Poder  Público  prestará  apoio  técnico  e jurídico,  bem  como  elaborará planta ou croqui  georreferenciados para  tal fim, sendo facultado ao proprietário fazer por seus próprios meios.
+§ 1º O IDAF poderá habilitar instituições para auxiliar no fiel cumprimento do disposto no caput .
+
+## Chunk 12
+
+DO CADASTRO AMBIENTAL RURAL (CAR)
+§ 2º A elaboração de planta ou croqui georreferenciados descrita no caput deste artigo não se aplica caso o agricultor familiar possuir dois ou mais imóveis rurais e a soma desses imóveis ultrapassar o limite de 25 hectares.
+
+## Chunk 13
+
+DO PROGRAMA DE REGULARIZAÇÃO AMBIENTAL - PRA
+Art. 9º Serão instituídos, no âmbito do Estado, Programas de Regularização Ambiental (PRAs), que compreenderão o conjunto de ações ou  iniciativas  a  serem  desenvolvidas  por  proprietários  e  posseiros  rurais com  o  objetivo  de  adequar  e  promover  a  regularização  ambiental  com vistas  ao  cumprimento  do  disposto  no  Capítulo  XIII  da  Lei  Federal  nº 12.651/2012.
+Parágrafo único. Constituem-se instrumentos do Programa de Regularização Ambiental:
+- I. o Cadastro Ambiental Rural (CAR), conforme disposto no caput do Art. 5º;
+- II. o termo de compromisso;
+- III. o Projeto de Recomposição de Áreas Degradadas e Alteradas; e,
+- IV. as Cotas de Reserva Ambiental (CRA), quando couber.
+
+## Chunk 14
+
+DO PROGRAMA DE REGULARIZAÇÃO AMBIENTAL - PRA
+Art.  10 O  IDAF  estabelecerá  por  meio  de  Instrução  Normativa  os procedimentos necessários para adesão e execução do PRA.
+
+## Chunk 15
+
+DISPOSIÇÕES FINAIS
+Art. 11 O IDAF estabelecerá, por meio de Instrução Normativa, a data da qual  o  CAR  será  considerado  implantado  para  fins  do  disposto  neste decreto e detalhará as informações e os documentos necessários à  efetiva inscrição.
+Art. 12 O IDAF só emitirá licenças ambientais e autorizações de queima controlada mediante apresentação do documento 'Solicitação de Inscrição no  Cadastro  Ambiental  Rural  -  CAR'.  ( Redação  dada  pelo  Decreto  nº 4.139-R de 11/08/2017 )
+Parágrafo  único. A  emissão  de  autorização  de  exploração  florestal dependerá de análise e aprovação das informações declaradas na 'Solicitação de Inscrição no Cadastro Ambiental Rural - CAR'. ( Redação dada pelo Decreto nº 4.139-R de 11/08/2017 )
+
+## Chunk 16
+
+DISPOSIÇÕES FINAIS
+Art.  13 Para  os  casos  de  posses  rurais  que  possuam  processos  de legitimação  de  terra  devoluta  junto  ao  IDAF,  a  inscrição  no  CAR  será realizada imediatamente após a entrega do título da área, caso a posse em questão não possua ainda inscrição no CAR.
+Art.  14 A  comprovação  de  inscrição  no  CAR,  autoriza  os  Cartórios  de Registro  de  Imóveis  a  praticar  atos  de  unificação,  desmembramento  ou alienação  de  imóveis  rurais  independente  de  qualquer  outra  manifestação do IDAF.
+§1º Havendo  Reserva  Legal,  já  averbada  na  matrícula  do  imóvel,  fica  o oficial do Cartório de Registro Geral de Imóveis desobrigado de exigir sua inscrição no CAR, bem como qualquer outra manifestação do IDAF.
+§2º
+
+## Chunk 17
+
+DISPOSIÇÕES FINAIS
+Em  caso  de  desmembramento  ou  unificação  do  imóvel,  o  oficial  do
+Cartório de Registro Geral de Imóveis deverá, por averbação, publicitar a existência  da  Reserva  Legal  averbada  no  registro  primitivo,  fazendo
+constar tal informação na nova matrícula.
+§3º
+O  disposto  nos  parágrafos  anteriores  não  desobriga  o  proprietário  do imóvel rural a proceder sua inscrição no CAR em obediência à legislação
+ambiental vigente.
+Art.  15
+Excepcionalmente,  desde  que  devidamente  motivado  e  aprovado pelo IDAF, será permitida a retificação da Reserva Legal, com a finalidade
+de realocação ou readequação, nas mesmas proporções que a original e de valor ecológico equivalente ou superior.
+
+## Chunk 18
+
+DISPOSIÇÕES FINAIS
+Parágrafo  único. As  regras  de  motivação  e  aprovação,  bem  como  de proporções e valor ecológico citadas no caput deste artigo serão regulamentadas por Instrução Normativa do IDAF.
+Art. 16 Este Decreto entra em vigor na data de sua publicação.
+Art. 17 Fica revogado o Decreto nº 2271-R de 05 de Junho de 2009.
+Palácio Anchieta, em Vitória-ES, aos 11 dias do mês de Julho do ano de 2013,  192º  da  Independência;  125º  da  República;  e  479º  do  Início  da Colonização do Solo Espiritossantense.
+
+## Chunk 19
+
+JOSÉ RENATO CASAGRANDE
+Governador do Estado
+

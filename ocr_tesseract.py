@@ -2,7 +2,7 @@ import os
 from PIL import Image
 import pytesseract
 from pdf2image import convert_from_path
-pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+pytesseract.pytesseract.tesseract_cmd = r"C:\\Program Files\\Tesseract-OCR\\tesseract.exe"
 
 def pegar_IMG(pasta: str, extensoes=(".png", ".jpg", ".jpeg", ".tiff", ".pdf")):
     arquivos_img = []

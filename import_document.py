@@ -19,7 +19,7 @@ def ler_arquivos(arquivos_pdf):
         textos = ''
         reader = PdfReader(pdf)
         for pagina in reader.pages:
-            texto = pagina.extract_text().replace("\n", " ")
+            texto = pagina.extract_text().strip().replace("\n", " ")#testar o strip()
             while '  ' in texto:
                 texto = texto.replace('  ', ' ')
             textos += texto
